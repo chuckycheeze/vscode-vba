@@ -29,7 +29,8 @@
           ".cls",
           ".frm",
           ".sht",
-          ".wbk"
+          ".wbk",
+          ".doccls"
         ],
         "configuration": "./vba.configuration.json"
       }
